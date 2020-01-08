@@ -59,5 +59,3 @@ npm install
 npm run test
 ```
 save
-
-grjkgrngkmr
