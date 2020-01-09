@@ -7,9 +7,13 @@ an open source automation/continuous integration (CI) tool
 to build and test software continuously, to make it easier to integrate changes to the project
 
 ## Getting admin password
+vagrant up
+
+development.local:8080
+
 go into the vm
 ```
-vagrant ssh
+vagrant ssh app
 ```
 type in the following code
 ```
