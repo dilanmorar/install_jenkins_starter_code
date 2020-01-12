@@ -55,11 +55,15 @@ copy and paste private keys
 private key
 specify branch
 
+tick - provide node & npm bin/ folder to PATH
+
 Build:
 Execute shell
 ```
-cd starter_code
+cd app
 npm install
 npm run test
 ```
 save
+
+test 3
